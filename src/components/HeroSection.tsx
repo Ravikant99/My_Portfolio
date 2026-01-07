@@ -86,7 +86,7 @@ const HeroSection = () => {
                 <span className="text-primary">@</span> Reliance Jio
               </h2>
               <p className="text-muted-foreground mt-2 font-mono text-sm">
-                // Building for 4M+ daily active users
+                // Building digital experiences that empower millions to connect and grow.
               </p>
             </motion.div>
 
@@ -136,7 +136,7 @@ const HeroSection = () => {
               className="flex gap-4 justify-center lg:justify-start"
             >
               <a 
-                href="https://linkedin.com" 
+                href="https://linkedin.com/in/ravikant-sharma7562" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-secondary/50 hover:bg-primary/20 hover:text-primary transition-all duration-300"
@@ -144,7 +144,7 @@ const HeroSection = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a 
-                href="mailto:ravikant@example.com"
+                href="mailto:mail2ravikant99@gmail.com"
                 className="p-3 rounded-full bg-secondary/50 hover:bg-primary/20 hover:text-primary transition-all duration-300"
               >
                 <Mail className="h-5 w-5" />

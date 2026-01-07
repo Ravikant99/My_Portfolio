@@ -7,20 +7,20 @@ const ContactSection = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com",
-      username: "@ravikant",
+      href: "https://github.com/ravikant99",
+      username: "@ravikant99",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com",
+      href: "https://linkedin.com/in/ravikant-sharma7562",
       username: "Ravikant Sharma",
     },
     {
       icon: Mail,
       label: "Email",
-      href: "mailto:ravikant@example.com",
-      username: "ravikant@example.com",
+      href: "mailto:mail2ravikant99@gmail.com",
+      username: "mail2ravikant99@gmail.com",
     },
   ];
 
@@ -86,7 +86,7 @@ const ContactSection = () => {
                 className="android-glow bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8"
                 asChild
               >
-                <a href="mailto:ravikant@example.com">
+                <a href="mailto:mail2ravikant99@gmail.com">
                   <Send className="mr-2 h-5 w-5" />
                   Send me an Email
                 </a>

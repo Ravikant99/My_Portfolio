@@ -19,7 +19,7 @@ const SkillsSection = () => {
     },
     {
       title: "Libraries & Tools",
-      skills: ["Hilt/Dagger", "Retrofit/OkHttp", "Coroutines", "RoomDB", "WorkManager", "Media3"],
+      skills: ["Hilt/Dagger", "Retrofit/OkHttp", "Coroutines", "RoomDB", "WorkManager", "ExoPlayer/Media3"],
       color: "android-yellow",
     },
     {

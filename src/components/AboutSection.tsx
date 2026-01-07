@@ -6,12 +6,12 @@ const AboutSection = () => {
     {
       icon: Smartphone,
       title: "Mobile Apps",
-      description: "Native Android apps with Kotlin & Jetpack Compose",
+      description: "Native Android apps with Kotlin, Jetpack Compose & Material3 Design",
     },
     {
       icon: Tv,
       title: "TV & Large Screen",
-      description: "Android TV, Fire TV & Set-Top Box development",
+      description: "Android apps for Android TV, Fire TV, Set-Top Box development & AOSP Devices",
     },
     {
       icon: Shield,
@@ -21,7 +21,7 @@ const AboutSection = () => {
     {
       icon: Zap,
       title: "Performance",
-      description: "Optimized apps serving 4M+ daily active users",
+      description: "Optimized apps features serving 4M+ daily active users",
     },
   ];
 

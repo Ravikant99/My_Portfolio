@@ -18,7 +18,7 @@ const PhoneMockup = () => {
     { name: "Navigation", level: 85, color: "primary" },
     { name: "LiveData", level: 86, color: "android-blue" },
     { name: "WorkManager", level: 78, color: "android-purple" },
-    { name: "Media3", level: 82, color: "android-yellow" },
+    { name: "ExoPlayer/Media3", level: 82, color: "android-yellow" },
     { name: "Leanback", level: 80, color: "primary" },
     { name: "Clean Architecture", level: 85, color: "android-red" },
     { name: "Design Patterns", level: 83, color: "android-blue" },

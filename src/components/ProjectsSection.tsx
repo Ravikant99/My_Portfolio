@@ -11,7 +11,7 @@ const ProjectsSection = () => {
         "Material Design with Jetpack Compose",
         "TMDB API integration",
         "Pagination & search optimization",
-        "YouTube & ExoPlayer integration",
+        "YouTube & ExoPlayer integration for Trailer and Local Video Playback",
       ],
       technologies: ["Kotlin", "Jetpack Compose", "MVVM", "Coroutines", "Flow", "Retrofit", "Hilt"],
       icon: Play,
@@ -22,10 +22,10 @@ const ProjectsSection = () => {
       title: "MyLiveTv",
       description: "Live TV streaming app for Android with channel management",
       features: [
-        "M3U8 playlist parsing",
+        "M3U8 playlist parsing - IPTV",
         "ExoPlayer for streaming",
-        "EPG integration",
-        "Channel favorites & categories",
+        "Swipe Gesture Channel Change",
+        "All Countries Channel & categories",
       ],
       technologies: ["Kotlin", "ExoPlayer", "MVVM", "Coroutines", "Retrofit"],
       icon: Tv,
@@ -90,7 +90,7 @@ const ProjectsSection = () => {
     },
     {
       title: "JioCineScape",
-      description: "Large-screen video file management application",
+      description: "Large-screen video file management application on Jio Set-Up Box",
       features: [
         "Offline-first caching with RoomDB",
         "Background sync with JioCloud APIs",

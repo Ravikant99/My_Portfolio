@@ -34,22 +34,22 @@ const EducationSection = () => {
               </div>
               <div>
                 <h3 className="text-xl font-bold">B.Tech in Computer Science</h3>
-                <p className="text-primary font-medium">IIIT Bhagalpur</p>
+                <p className="text-primary font-medium">Indian Institute of Information Technology(IIIT), Bhagalpur</p>
               </div>
             </div>
 
             <div className="space-y-4">
               <div className="flex items-center justify-between py-3 border-b border-border">
                 <span className="text-muted-foreground">Institution</span>
-                <span className="font-medium">Indian Institute of Information Technology</span>
+                <span className="font-medium">IIIT Bhagalpur</span>
               </div>
               <div className="flex items-center justify-between py-3 border-b border-border">
                 <span className="text-muted-foreground">Duration</span>
                 <span className="font-mono">2019 – 2023</span>
               </div>
               <div className="flex items-center justify-between py-3">
-                <span className="text-muted-foreground">CGPA</span>
-                <span className="text-primary font-bold text-lg">7.86 / 10</span>
+                <span className="text-muted-foreground">Stream</span>
+                <span className="text-primary font-bold text-lg">Computer Science & Engineering</span>
               </div>
             </div>
           </motion.div>
@@ -86,7 +86,7 @@ const EducationSection = () => {
               <div className="flex items-center justify-between">
                 <span className="text-sm text-muted-foreground">Platform: Coursera</span>
                 <a
-                  href="#"
+                  href="https://www.coursera.org/account/accomplishments/specialization/XH4CWU31M9RH?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n"
                   className="flex items-center gap-1 text-primary text-sm hover:underline"
                 >
                   View Credential

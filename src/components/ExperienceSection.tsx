@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
-import { Building2, Calendar, Users, TrendingUp, Shield, Smartphone } from "lucide-react";
+import { Building2, Calendar, Users, TrendingUp, Shield, Smartphone, FileBadge } from "lucide-react";
 
 const ExperienceSection = () => {
   const achievements = [
     {
-      icon: Users,
-      metric: "4M+",
-      label: "Daily Active Users",
+      icon: FileBadge,
+      metric: "10+",
+      label: "Live Market Projects",
     },
     {
       icon: TrendingUp,
