@@ -4,10 +4,10 @@ import path from "path"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/My_Portfolio/",
+  base: "/", // ✅ Use '/' for custom domain
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "src") // 👈 this tells Vite that @ = src/
+      "@": path.resolve(__dirname, "src") // keep this
     }
   }
 })
