@@ -1,13 +1,13 @@
-import { defineConfig } from "vite"
-import react from "@vitejs/plugin-react-swc"
-import path from "path"
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react-swc";
+import path from "path";
 
 export default defineConfig({
+  base: "/My_Portfolio/",
   plugins: [react()],
-  base: "/", // ✅ Use '/' for custom domain
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "src") // keep this
-    }
-  }
-})
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+});
