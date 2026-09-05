@@ -64,7 +64,7 @@ const AboutSection = () => {
                   <span className="text-android-yellow">AndroidDeveloper</span> {"{"}
                 </p>
                 <p className="pl-4">
-                  <span className="text-android-blue">val</span> experience = <span className="text-primary">"2.5+ years"</span>
+                  <span className="text-android-blue">val</span> experience = <span className="text-primary">"3+ years"</span>
                 </p>
                 <p className="pl-4">
                   <span className="text-android-blue">val</span> company = <span className="text-primary">"Reliance Jio"</span>
@@ -77,14 +77,14 @@ const AboutSection = () => {
 
               <div className="mt-6 text-muted-foreground leading-relaxed">
                 <p>
-                  Android Developer with <span className="text-foreground">2.5+ years</span> of experience 
+                  Android Developer with <span className="text-foreground">3+ years</span> of experience 
                   designing and building scalable, high-performance mobile applications for 
                   <span className="text-primary"> Android phones</span> and 
                   <span className="text-android-blue"> large-screen Android TV</span> platforms.
                 </p>
                 <p className="mt-4">
                   Strong expertise in <span className="text-foreground">Kotlin, Java, Jetpack Compose, 
-                  MVVM, Coroutines, RoomDb, Retrofit, Hilt</span> and <span className="text-foreground">Media3</span>. 
+                  MVVM/MVI, Clean Architecture, Coroutines, KMP/CMP RoomDb, Retrofit, Hilt</span> and <span className="text-foreground">Media3</span>. 
                   Proven ability to deliver secure, maintainable, and user-focused applications.
                 </p>
               </div>
